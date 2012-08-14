@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Please set to a known High Tide</string>
+    <string name="app_name">TideClock</string>
+    <string name="savebtn">Set HighTide</string>
+    <string name="todays">HighTide Today</string>
+    <string name="notset">No base set</string>
+    <string name="notsetX">N/A</string>
+    <string name="location">Location:</string>
+    <string name="exitbtn">Exit</string>
+
+</resources>
